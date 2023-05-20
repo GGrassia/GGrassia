@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Giulio!
-- 👀 I’m interested in Audio, Photography and, of course, coding.
-- 🌱 I’m currently learning C# and Python, but I'm very much interested in Zig
-- 💞️ I’m looking to collaborate on anything audio-related!
+👋 Hi, I’m Giulio!
+I'm a still not specialized dev, so my projects range from fullstack webapps to desktop applications.
+I’m looking to collaborate on open source projects, I'm mainly a C# dev but I know some JS, HTML and CSS.
 - 📫 You can send me an email to ggrassiawork@gmail.com
 
 <!---
